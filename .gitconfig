@@ -1,0 +1,11 @@
+[user]
+	name = Mustapha Khoudi
+	email = mustapha.khoudi13@bathspa.ac.uk
+[core]
+	editor = vim
+	autocrlf = input
+[color]
+	ui = true
+[alias]
+	s = status -s
+	lg = log --oneline --all --graph --decorate
